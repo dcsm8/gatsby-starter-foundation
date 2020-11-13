@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Wyatt Morriss
 tagline: Graphic Designer
-featuredImage: /assets/royal-mail-unsplash.jpg
+featuredImage: /assets/logo-web-e1448651266486.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
