@@ -5,19 +5,19 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 const MenuItems = [
   {
     path: "/",
-    title: "Home"
+    title: "Inicio"
   },
   {
     path: "/about",
-    title: "About"
+    title: "Acerca de Nosotros"
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Proyectos"
   },
   {
     path: "/contact",
-    title: "Contact"
+    title: "Contacto"
   },
 ]
 
