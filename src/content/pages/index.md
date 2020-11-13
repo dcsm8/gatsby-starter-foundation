@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: GEOINGTRO SAS
 tagline: CONSULTORÍA EN INGENIERÍA GEOTÉCNICA
-featuredImage: /assets/weston-mackinnon-7s2cjd9l7vk-unsplash.jpg
+featuredImage: /assets/estabilidad-de-taludes.png
 cta:
   ctaText: Saber más
   ctaLink: /about
