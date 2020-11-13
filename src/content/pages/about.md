@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: Acerca de Nosotros
 ---
 ![](/assets/logo-web-e1448651266486.jpg)
 
