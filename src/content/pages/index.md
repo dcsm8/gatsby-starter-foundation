@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/logo-web-e1448651266486.jpg
+title: GEOINGTRO SAS
+tagline: CONSULTORÍA EN INGENIERÍA GEOTÉCNICA
+featuredImage: /assets/weston-mackinnon-7s2cjd9l7vk-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Saber más
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Gestión y ejecución de proyectos de consultoría en las áreas de la Ingeniería, especialmente en Geotecnia, generando soluciones viables y factibles con el apoyo de un grupo humano de alta calidad personal y profesional.
