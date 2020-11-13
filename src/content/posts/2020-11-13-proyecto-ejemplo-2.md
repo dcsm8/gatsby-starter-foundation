@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Proyecto Ejemplo 2
-slug: /ejemplo-2
+title: Proyecto Ejemplo 3
+slug: /ejemplo-3
 date: 2020-11-13 04:33
-description: Proyecto Ejemplo 2
-featuredImage: /assets/matthew-t-rader-bogw-2mbx2o-unsplash.jpg
+description: Proyecto Ejemplo 3
+featuredImage: /assets/mika-baumeister-ufeolq65lue-unsplash.jpg
 ---
-Proyecto Ejemplo 1
+Proyecto Ejemplo 3
