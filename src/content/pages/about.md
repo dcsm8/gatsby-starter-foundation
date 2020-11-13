@@ -3,12 +3,11 @@ template: about-page
 slug: /about
 title: About Foundation
 ---
-![Logo](/assets/logo-web-e1448651266486.jpg)
-
-
+![](/assets/logo-web-e1448651266486.jpg)
 
 ## **PAVIMENTOS PARA CARRETERAS**
----
+
+- - -
 
 ![](/assets/pavimentos-para-carreteras1.jpg)
 
@@ -22,11 +21,9 @@ Gestión de infraestructura vial.
 
 Elaboración de espectros de carga y coeficientes de daño.
 
-
-
 ## **PAVIMENTOS PARA AEROPUERTOS**
----
 
+- - -
 
 ![PAVIMENTOS PARA AEROPUERTOS](/assets/pavimentos-aeropuertos1.jpg "PAVIMENTOS PARA AEROPUERTOS")
 
@@ -38,11 +35,9 @@ Estudio geotécnico y diseño de pavimento tipo flexible y rígido.
 
 Determinación PCN (Pavement Classification Number) de conformidad con lo establecido por la Organización de Aviación Civil Internacional (OACI) a través del Anexo 14, Cláusula 2.5.2, Reglamento Aeronáutico de Colombia – Parte 14 (RAC 14).
 
-
-
 ## **ESPACIO PÚBLICO**
----
 
+- - -
 
 ![ESPACIO PÚBLICO](/assets/espacio-pc3bablico.png "ESPACIO PÚBLICO")
 
@@ -58,11 +53,9 @@ Estudio y diseño Hidráulico.
 
 Estudio y diseño Arquitectónico andenes y espacio público.
 
-
-
 ## **ESTABILIDAD DE TALUDES**
----
 
+- - -
 
 ![ESTABILIDAD DE TALUDES](/assets/estabilidad-de-taludes.png "ESTABILIDAD DE TALUDES")
 
@@ -74,11 +67,9 @@ Análisis del entorno geológico y geotécnico en la zona del estudio.
 
 Análisis de estabilidad general y diseño geotécnico de obras de estabilización.
 
-
-
 ## **PROTECCIÓN LATERAL EN RÍOS Y CONTROL DE INUNDACIONES**
----
 
+- - -
 
 ![PROTECCIÓN LATERAL EN RÍOS Y CONTROL DE INUNDACIONES](/assets/lateral.jpg "PROTECCIÓN LATERAL EN RÍOS Y CONTROL DE INUNDACIONES")
 
@@ -94,11 +85,9 @@ Análisis de socavación general.
 
 Diseño geotécnico de obras de protección lateral y control de inundaciones.
 
-
-
 ## **CIMENTACIONES**
----
 
+- - -
 
 ![CIMENTACIONES](/assets/cimentaciones.png "CIMENTACIONES")
 
